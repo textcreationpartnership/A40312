@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tythes, offerings, and first-fruits, commanded by the law in the Old Testament, is not Gospel neither before the law nor after : and also circumcision and oathes, and swearing, and the Sabbath-days commanded by the law in the old time in the Old Testament, is not Gospel, neither before the law, nor since in the glorious gospel-day of Christ ... / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40312</idno>
+            <idno type="STC">Wing F1973</idno>
+            <idno type="STC">ESTC R28015</idno>
+            <idno type="EEBO-CITATION">10329654</idno>
+            <idno type="OCLC">ocm 10329654</idno>
+            <idno type="VID">44867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tythes, offerings, and first-fruits, commanded by the law in the Old Testament, is not Gospel neither before the law nor after : and also circumcision and oathes, and swearing, and the Sabbath-days commanded by the law in the old time in the Old Testament, is not Gospel, neither before the law, nor since in the glorious gospel-day of Christ ... / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44867:1"/>
+            <pb facs="tcp:44867:1"/>
+            <p>TYTHES, OFFERINGS, AND FIRST-FRUITS, Commanded by the Law in the <hi>Old Teſtament,</hi> IS NOT GOSPEL, Neither before the Law nor after.</p>
+            <p>AND ALSO Circumciſion and Oathes, and Swearing, and the Sab<g ref="char:EOLhyphen"/>bath-days commanded by the Law in the old time in the Old Teſtament, is not Goſpel neither before the Law, nor ſince in the glorious Goſpel-day of Chriſt.</p>
+            <p>And alſo the trial of the Miniſters and Teachers, who are they that Plant Vineyards, and Plow and Threſh in hope, and keep a Flock, and Miniſter holy or ſpiritual things, <hi>&amp;c.</hi> as the Apoſtles did in their days.</p>
+            <p>
+               <hi>By <hi>George Fox.</hi>
+               </hi>
+            </p>
+            <q>
+               <p>Chriſt hath blotted out the hand writing of Ordinances that was againſt us, which was contrary to us, and took it out of the way, nailing it to the Croſs,</p>
+               <bibl>
+                  <hi>Coloſ. 2.14.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And behold at Evening-tide trouble, and before the Morning he is not; this is the Portion of them that ſpoil us, and the Lot of them that rob us,</p>
+               <bibl>
+                  <hi>Iſa. 17.14.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lombard-ſtreet,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:44867:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:44867:2"/>
+            <head>TYTHES, OFFERINGS, AND FIRST-FRUITS, NO <hi>Goſpel-Commands,</hi> Although Commanded by the LAW IN THE OLD TESTAMENT.</head>
+            <p>
+               <hi>CHriſt hath blotted out the hand-writing of Ordinances contained in the Law, that was againſt us, and contrary to us, and hath taken them out of the way, and nailed them to his Croſs;</hi> and hath not he ſpoiled the rule and authority, and power that held them up? And he hath made a ſhew of them, openly triumphing over them in his own perſon, having <hi>aboliſhed in his Fleſh, the Enmity, even the Law of Comandments contained in Ordinances, for to make in him<g ref="char:EOLhyphen"/>ſelf of twain, one new man, ſo making Peace.</hi> Now what was this Law and Commandments, and Ordinances? were they not <hi>Tythes, Offerings,</hi> and the outward Altars and Tabernacles, and outward Circumciſion, and the out<g ref="char:EOLhyphen"/>ward
+<pb n="2" facs="tcp:44867:3"/>things contained in the Law? and the outward <hi>Prieſts</hi> with their Garments and Services, with all the outward <hi>Signs, Figures</hi> and <hi>Shadows,</hi> which Chriſt has aboliſhed, blotted out, and nailed to his Croſs.</p>
+            <p>And all their <hi>Jewiſh Ceremonies,</hi> with outward <hi>waſhing and ſprinkling,</hi> and all their obſerving their Meats, Feaſts, and <hi>Sabbath-days,</hi> and Oaths, and Swearing, hath not Chriſt aboliſhed all theſe things, and <hi>nailed them to his Croſs,</hi> and triumphed over them, and changed the Prieſthood, and the Law by which it was made; and diſannulled the Commandments that gave the Prieſt his Tythes, who was made <hi>a Prieſt after the Law of a carnal Commandment, but Chriſt is made a Prieſt after the power of an endleſs Life.</hi> Now as for them that ſay <hi>Abraham</hi> gave Tythes, the tenth of all the ſpoil that he had gotten in the Wars, to <hi>Melchi<g ref="char:EOLhyphen"/>ſedeck</hi> King of <hi>Salem;</hi> but that's no proof nor example, that <hi>Kings</hi> and <hi>Governours,</hi> and <hi>Captains</hi> that did conquer their Enemies, did give the Tenths, <hi>&amp;c.</hi> And the Sons of <hi>Levi,</hi> who received the Office of the Prieſthood, had a Commandment (according to the Law) to take Tythes of the People, that is, of their Brethren; but the Apoſtle ſaith, <hi>Levi who received Tythes, paid Tythes in</hi> Abraham, <hi>when he was yet in the Loins of his Father</hi> Abraham, when <hi>Melchiſedeck</hi> met him; ſo it was <hi>Levi</hi> that paid them in <hi>Abraham:</hi> and the Goſpel was Preached to <hi>Abraham</hi> by the Lord, ſaying, <hi>In thee ſhall all the Families of the Earth be bleſſed,</hi> before <hi>Abraham</hi> was either Circumciſed, or <hi>Levi</hi> paid Tythes in <hi>Abraham,</hi> (I ſay again) the Goſpel was Preached to <hi>Abraham,</hi> and the Promiſe was to <hi>Abraham,</hi> before either he was Circumciſed, or before he went to offer his Son <hi>Iſaac,</hi> or <hi>Levi</hi> paid Tythes in <hi>Abraham,</hi> ſay<g ref="char:EOLhyphen"/>ing, <hi>In thy Seed ſhall all the Families of the Earth be bleſſed.</hi> And how was Faith reckoned to <hi>Abraham</hi> for Righteouſ<g ref="char:EOLhyphen"/>neſs? when he was in Circumciſion or un-circumciſion? not when he was Circumciſed, but before he was Circum<g ref="char:EOLhyphen"/>ciſed, not when <hi>Levi</hi> paid Tythes in <hi>Abraham,</hi> but before <hi>Levi</hi> paid Tythes in <hi>Abraham;</hi> for the Promiſe that he ſhould be Heir of the World, was not to <hi>Abraham,</hi> or to
+<pb n="3" facs="tcp:44867:3"/>his ſeed, through the <hi>Law,</hi> but through the Righteouſneſs of <hi>Faith,</hi> and this was before either <hi>Abraham</hi> was Circum<g ref="char:EOLhyphen"/>ciſed, or <hi>Levi</hi> paid Tythes in <hi>Abraham,</hi> and now the Le<g ref="char:EOLhyphen"/>vitical Prieſt-hood is changed, and the Law by which he was made and the Commandments diſannulled, that gave him his Tythes, and <hi>Chriſt hath blotted out the Law and Hand writing of Ordinances,</hi> &amp;c. and <hi>Nailed them to his Croſs, and triumphed over them,</hi> and therefore if <hi>you be circumciſed Chriſt profits you nothing,</hi> ſo the Goſpel and Faith was preach<g ref="char:EOLhyphen"/>ed to <hi>Abraham</hi> before either Tythes or Circumciſion was, and Chriſt he came not after the order of <hi>Levi,</hi> or <hi>Aaron,</hi> but after the order of <hi>Melchiſedeck</hi> and of the Tribe of <hi>Judah.</hi>
+            </p>
+            <p>And it was the Sons of <hi>Levi</hi> that were commanded to take Tythes, it doth not ſay the Sons of the Tribe of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> of which Chriſt came, hat were commanded to take Tythes; but the <hi>Levitical Prieſt-hood</hi> is Changed, and the law by which the Prieſt-hood was made, and the Command<g ref="char:EOLhyphen"/>ment diſannulled by Chriſt <hi>our high-Prieſt, who is made higher than the Heavens;</hi> and we who are of Faith, and in the Goſpel, we are not under the law of Tythes, Offerings and outward Circumciſion, <hi>&amp;c.</hi> but <hi>we are under grace</hi> that teaches us, <hi>&amp;c.</hi> and <hi>brings us Salvation</hi> and as the Apoſtle ſaith; <hi>Wherefore my Brethren we alſo are become dead to the Law, by the body of Chriſt that you ſhould be married to another, even to Chriſt whom God hath raiſed</hi> from <hi>the Dead; for Chriſt is the end of the Law for Righteouſneſs ſake, to every one that believes,</hi> for <hi>Moſes</hi> deſcribeth the Righteouſneſs which is of the Law, that a man which doth theſe <hi>things ſhall live by them,</hi> but the Righteouſneſs which is of Faith ſpeak<g ref="char:EOLhyphen"/>eth on this wiſe; <hi>Say not in thy heart who ſhall aſcend into Heaven,</hi> that is, <hi>to bring Chriſt from above, or who ſhall de<g ref="char:EOLhyphen"/>ſend into the deep,</hi> that is, <hi>to bring up Chriſt from the Dead;</hi> but what ſaith it, <hi>the word is nigh thee, even in thy mouth and in thy heart, and this is the word of Faith which we preach; that if thou confeſs with thy mouth the Lord Jeſus, and ſhall believe in thine heart that God hath raiſed him from the Dead, thou ſhalt be ſaved; for with the heart man believeth unto
+<pb n="4" facs="tcp:44867:4"/>Righteouſneſs, and with the mouth confeſſion is made unto Sal<g ref="char:EOLhyphen"/>vation: for as many as are under the work of the Law are under the curſe:</hi> For if the inheritance had been of the law it is no more of promiſes, but God gave it to <hi>Abraham</hi> by promiſes before the law, and are not Tythes the work of the law ſeeing the Apoſtle ſaith, <hi>As many as are under the law are under the curſe;</hi> but Chriſt hath redeemed us from under the curſe of the law, <hi>being made a curſe</hi> for us; ſo that no man is juſtified by the law in the ſight of God it is evident, <hi>for the juſt ſhall live by Faith,</hi> in the Faith which <hi>Abraham</hi> lived in before he was Circumciſed, and <hi>Levi</hi> paid Tythes in <hi>Abraham,</hi> and the Apoſtle ſaid, <hi>God hath made them able Miniſters of the new Teſtament, not of the let<g ref="char:EOLhyphen"/>ter but of the Spirit; the letter killeth, the Spirit gives life,</hi> now this letter muſt be the law and Old Teſtament and further ſaith, <hi>that if the miniſtration of death written, and engraven in ſtones was glorious, how ſhall not the miniſtration of the Spirit be rather glorious; For if the miniſtration of Condem<g ref="char:EOLhyphen"/>nation be glory, for that which was made glorious, had no glo<g ref="char:EOLhyphen"/>ry in this reſpect, by reaſon of the glory that excedeth, for if that which is done away was glorious, much more that which re<g ref="char:EOLhyphen"/>maineth is glorious;</hi> So that the Miniſtration of Condem<g ref="char:EOLhyphen"/>nation and the Miniſtration of death Written and In<g ref="char:EOLhyphen"/>graven in Stones is the Miniſtration of the letter; Was not this the Law and Old Teſtament; and old Covenant, and <hi>Moſes who put a vail over his face that the Children of</hi> Iſrael <hi>could not ſtedfaſtly look to the end of that which is abo<g ref="char:EOLhyphen"/>liſhed,</hi> (Mark that <hi>which is aboliſhed</hi>) but the <hi>Jews</hi> minds were blinded, <hi>for until this day remains the ſame vail un<g ref="char:EOLhyphen"/>taken away in Reading of the Old Teſtament: which vail is done away in Chriſt but even unto this day, when</hi> Moſes <hi>is read the vail is upon their hearts,</hi> and is it not upon the Chri<g ref="char:EOLhyphen"/>ſtians, who read the Old Teſtament of <hi>Moſes,</hi> that com<g ref="char:EOLhyphen"/>mands Tythes, Offerings, Swearing and Firſt-fruits, and Altars, and Prieſts with their White Garments, <hi>&amp;c.</hi> for are not all theſe things <hi>done away by Chriſt,</hi> hath not <hi>Chriſt nail<g ref="char:EOLhyphen"/>ed them to his Croſs</hi> and triumphed over theſe things; that was commanded by the law, in the law of the <hi>old Covenant</hi>
+               <pb n="5" facs="tcp:44867:4"/>and <hi>Teſtament, Nevertheleſs,</hi> ſaith the Apoſtle, <hi>When the hearts of the</hi> Jews <hi>ſhall turn to the Lord, the vail ſhall be taken away.</hi> Is not that the vail of the Letter the Miniſtration of death, the Miniſtration Written and Ingraven in Stones, and the Old Teſtament and the vail of <hi>Moſes,</hi> and is not this vail over the Chriſtians hearts in reading <hi>Moſes,</hi> and the Old Teſtament, and preaching and practiſing of it <hi>(viz)</hi> Tythes, Swearing and Offerings, <hi>&amp;c.</hi> and can this vail be taken away until you turn to the Lord, and were not the promiſes of the Lord to <hi>Abraham,</hi> and the Goſpel preach<g ref="char:EOLhyphen"/>ed to <hi>Abraham,</hi> ſaying, <hi>In thee ſhall all Nations be bleſſed:</hi> I ſay was not this Goſpel and Promiſes to <hi>Abraham</hi> before circumciſion, and before Oathes, and Swearing, and <hi>Levi</hi> paying Tythes in <hi>Abraham;</hi> and doth not Chriſt in in his Goſpel-day which was preached to <hi>Abraham</hi> ſay, <hi>It has been ſaid of them in old time, thou ſhalt not for-ſwear thy ſelf, but perform thy Oathes to the Lord,</hi> and was not that old time the time of the Law, the Old Teſtament and the old Covenant that commanded Circumciſion, Oathes, Tythes and Offerings; and Chriſt ſaith, <hi>But now I ſay unto you, ſwear not at all, but let your yea be yea, and your nay, nay; for what is more than theſe comes from evil;</hi> and <hi>James</hi> ſaith the ſame, <hi>James</hi> 5. <hi>Above all things my Brethren</hi> (In his gene<g ref="char:EOLhyphen"/>ral Epiſtle to the 12 <hi>Tribes</hi> ſcattered abroad) <hi>Swear not nei<g ref="char:EOLhyphen"/>ther by Heaven, neither by Earth, neither by any other Oath</hi> (Mark) <hi>any other Oath, but let your yea, be yea, and your nay, nay; leſt you fall into condemnation,</hi> doth not the Apoſtle here conclude that Swearing and Oathes were in condemnation in the time of the Goſpel and New Cove<g ref="char:EOLhyphen"/>nant, and New Teſtament, although they were Juſtified and commanded in the old Covenant, and by the law in the Old Teſtament, but forbiden under the penalty of going into evil and condemnation, in the glorious Goſpel of Chriſts day and his new Covenant who ſayes, <hi>Out of the mouth of two or three witneſſes every word is eſtabliſhed,</hi> and they ſhould not accuſe an Elder but with the mouth of two or three witneſſes, and doth not ſay of two or three Swearers every word ſhould be eſtabliſhed, this is the command of
+<pb n="6" facs="tcp:44867:5"/>Chriſt in his Goſpel-day, and New Teſtament and new Co<g ref="char:EOLhyphen"/>venant of grace and of light and life, and they that love Chriſt will keep his Commandments, <hi>John</hi> 14.21. <hi>He that hath my Commandments, and keepeth them, he it is that lov<g ref="char:EOLhyphen"/>eth me: and he that loveth me, ſhall be loved of my Father, and I will love him, and will manifeſt my ſelf to him;</hi> and Jeſus ſaid, <hi>If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. He that loveth me not, keepeth not my ſayings,</hi> John 25. And Tythes that <hi>Levi</hi> paid in <hi>Abraham</hi> and renewed them in the law that was commanded in the Old Teſtament, Tythes, Offerings, Circumciſion, and before <hi>Abraham</hi> received the ſign of Circumciſion, ſo Cir<g ref="char:EOLhyphen"/>cumciſion outwardly was but a ſign of the Circumciſion of the Spirit, Chriſt having ended the Law and the Prieſt<g ref="char:EOLhyphen"/>hood that was made by the law, and diſannulled the com<g ref="char:EOLhyphen"/>mandment that gave Tythes, and blotted out the <hi>hand<g ref="char:EOLhyphen"/>writing of ordinances</hi> that was againſt us, which was con<g ref="char:EOLhyphen"/>trary to us, and <hi>took them out of the way and nailed them to his Croſs;</hi> now this hand-writing of Ordinances was Cir<g ref="char:EOLhyphen"/>cumciſion, Tythes, Offerings, and Oathes, and Swearing, <hi>&amp;c.</hi> in the Old Teſtament which Chriſt hath nailed to his Croſs, and hath ſpoiled the principalities and powers of the <hi>Jews,</hi> which held them up, which was againſt us and contrary to us in the New Teſtament, and the new Cove<g ref="char:EOLhyphen"/>nant in the glorious Goſpel-day of Chriſt, and Chriſt in his new Covenant and New Teſtament and in his Goſpel-day, who came of the tribe of <hi>Judah,</hi> not of the tribe of <hi>Aaron,</hi> that took Tythes he ſaith to his Miniſters and Apoſtles, that he ſent forth to preach the new Covenant, the New Te<g ref="char:EOLhyphen"/>ſtament and the Goſpel; <hi>Freely you have received, freely give,</hi> &amp;c. and this was the command of Chriſt, and he that loveth him will keep his Command, and his words, and ſayings, and they are beloved of God and of Chriſt; and <hi>Chriſt and his Father will come and make their abode with him,</hi> John 14.</p>
+            <p>Whereas you ſay that the <hi>Jews</hi> paid Tythes of Mint, and Rude, and of all manner of Herbs, to the Sons of <hi>Levi,</hi> and
+<pb n="7" facs="tcp:44867:5"/>Chriſt ſaid unto them, <hi>Theſe things ought ye to have done to the Sons of Levi,</hi> &amp;c. (mark) <hi>have done,</hi> I do grant that the <hi>Jews</hi> ought to have done theſe things, to pay the Tythes to the Prieſts, and to the <hi>Levites,</hi> for Chriſt many times when he had healed the people, he bid them go to offer to the Prieſt for their Cleanſing, and therefore were not the Tythes part of the Prieſts wages, which had no lot in the Land as the other eleven Tribes had? but you that call your ſelves Chriſtians do not pay Tythes to Jewiſh Prieſts now. But this paying of Tythes that Chriſt ſpake of, and offer<g ref="char:EOLhyphen"/>ing to the Prieſts was before Chriſt himſelf was offered up, for as the Apoſtle ſaith, <hi>The offering up of the body of Chriſt once for all, and by one offering he hath perfected for ever them that are ſanctified;</hi> and Chriſt after he had once offered up himſelf a Sacrifice for ſin forever, <hi>ſat down at the right hand of God,</hi> Heb. 10. And ſo did not Chriſt cauſe the <hi>Jews</hi> Sacri<g ref="char:EOLhyphen"/>fices and oblation and Tythes to ceaſe; by the Offering up himſelf once for all, for all their Sacrifices and Offerings, ended them and aboliſhed them all, with all their Tythes, which the law commanded to be given to <hi>Levi,</hi> and nail<g ref="char:EOLhyphen"/>ed them to his Croſs, and Changed the <hi>Levitical</hi> Prieſt<g ref="char:EOLhyphen"/>hood and the Law by which he was made, and diſannulled the Commandments that gave him his Tythes; and ſaid unto his Diſciples, <hi>Freely receive, and freely give.</hi>
+            </p>
+            <p>And the Promiſes and the Goſpel was given and preach<g ref="char:EOLhyphen"/>ed to <hi>Abraham,</hi> before the Lord gave his Sabbath to be a ſign betwixt the <hi>Jews</hi> and the Lord, that they might know that it was the Lord that Sanctified them, for ye do not read the Lord gave his Sabbath to any of the old world, nor to <hi>Noah,</hi> nor to <hi>Shem,</hi> nor to <hi>Abraham, Iſaac,</hi> or <hi>Jacob,</hi> but the Children of <hi>Iſrael</hi> after they came out of the land of <hi>Aegypt;</hi> or the land of <hi>Ham,</hi> Pſal. 105.15. And the Sabbath which God gave unto the Children of <hi>Iſrael;</hi> was a ſign betwixt him and them, this ſign ſerved till Chriſt the Seed came, who is the Subſtance that ends the ſigns and figures, and therefore Chriſt ſaith to the <hi>Jews; The Sabbath was made for man, and not man for the Sabbath;</hi> therefore, <hi>Chriſt the Son of man is Lord of the Sabbath,</hi> Mat. 12. &amp; 8. Mark 2.17.</p>
+            <p>
+               <pb n="8" facs="tcp:44867:6"/>
+The Scriptures that the Prieſts in Chriſtendom teach and uſed to bring for their taking of Tythes, and main<g ref="char:EOLhyphen"/>tenance of people, and made havock of the peoples goods; yea, of theirs that they did not preach to nor hire them, are as followeth, firſt ſome have ſaid and others do ſay that <hi>the work-man is worthy of his Hire, and the Labourer is wor<g ref="char:EOLhyphen"/>thy of his Meat;</hi> But is it not unjuſt in you that profeſs your ſelves Miniſters of the Goſpel; and Miniſters of the Law, or for any other people to demand and force yearly wages or meat from them that never hired them, nor ſet them at work, and not only force wages and meat, but caſt ſuch into priſon that hath neither hired them nor ſet them to work, is this according to the Law; <hi>Do unto another as you would have them do unto you;</hi> is not this practice both below the law and the Goſpel, let the Prieſts and Teachers of all ſorts and people conſider, <hi>Secondly.</hi> you Teachers ſay, <hi>Who goeth a warfare at his own Charge?</hi>
+            </p>
+            <p>But what is your warfare, who tells the people here is no victory, nor overcoming the enemy on this ſide the Grave, and others ſay they muſt have a Purgatory to cleanſe them when they are dead, then who would be at charge to maintain ſuch Warriors; ſeeing they muſt be ſlaves to carry the Devils body of death, and body of Sin to the Grave; and other Warriors ſay, they muſt have a purgatory when they are dead, ſurely theſe cannot be the lambs Warriors who make War in Righteouſneſs; and the lamb and the Saints have the victory over the Devil and his Works; Then they muſt needs be the Devils Warriors that ſay there is no victory on this ſide the Grave; But they muſt carry the Devils body of death and ſin to the Grave: and others ſay they muſt have a purgatory when they are dead to cleanſe them in, ſo ſuch are the Devils Warriors and not Chriſts.</p>
+            <p>
+               <hi>Thirdly,</hi> You ſay, <hi>Who planteth a vineyard and eateth not the Fruit thereof?</hi> But how can you plant a vineyard who ſay you have not the ſame power and the Holy Ghoſt which the Apoſtles had, for if you had the ſame Holy Ghoſt and Power the Apoſtles had, you might eat of the
+<pb n="9" facs="tcp:44867:6"/>vineyard which you had planted, and the Apoſtle doth not ſay that you might eat of other vineyards, by force and violence, which you have not Planted, but is not this a Heavenly and a Spiritual Plantation; That is Planted by the Power and Holy Ghoſt the Apoſtles were in, which Plantation bringeth forth Spiritual fruit: But how can you plant a vineyard and do not own the true light which is the life in the word, which enlighteneth every man that cometh into the World; for without the light of Chriſt they are Spiritually blind, and <hi>The natural man knoweth not the things of God, for they are fooliſhneſs to him;</hi> and therefore ſuch are not like to plant vineyards for God.</p>
+            <p>And again you teachers ſay, <hi>Who feedeth a Flock and eat<g ref="char:EOLhyphen"/>eth not of the Milk thereof;</hi> Now they that feedeth this flock which the Apoſtle ſpeaketh of; it muſt be with the ſame Power and Holy Ghoſt the Apoſtles were in; and who with it feeds their flocks with Spiritual food, as the Apoſtle did, who writes to the <hi>Corinthians</hi> his flock, which were Babes in Chriſt; but the Apoſtle doth not ſay, nor tell you, that you ſhould eat of the Milk of other flocks by force and cruelty, which you do not feed, and wring Milk out of them whether they will or no; and caſt other flocks into Priſon, becauſe they will not give you Milk, that you do not feed, this is contrary to the law and the Goſpel alſo; and below the Preachers and Doers of the law, which is not, <hi>To do unto others as you would have them do unto you;</hi> and likewiſe you Teachers ſay and have ſaid to us; <hi>Thou ſhalt not Muzzel the Mouth of the Ox that treadeth out the Corn,</hi> &amp;c. Now ye teachers con<g ref="char:EOLhyphen"/>ſider you ſay that people muſt carry a body of death, and a body of ſin to the Grave with them, and there is no per<g ref="char:EOLhyphen"/>fection on this ſide the Grave; and other Teachers ſay they muſt have a purgatory to cleanſe them, when they are dead, from ſin, and now none of you can gain-ſay but that a body of death, and a body of ſin is <hi>Chaff;</hi> and that which people muſt be cleanſed from is <hi>Chaff;</hi> and the Corn or Wheat that is to be troden out of this <hi>Chaff,</hi> is Gods <hi>Corn</hi> or <hi>Seed;</hi> that comes into his <hi>Barnes</hi> or <hi>Barn,</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:44867:7"/>how can you be ſaid to tread out the <hi>Corn,</hi> when peo<g ref="char:EOLhyphen"/>ple muſt have a body of death, and ſin to the Grave, and a purgatory when they are dead to cleanſe them in, from their Chaff; therefore how can you be the Oxen the Apo<g ref="char:EOLhyphen"/>ſtle ſpeaks of, to tread out the Corn; when you plead for <hi>Chaff</hi> as long as people lives; and when they are dead alſo, then they muſt be cleanſed from it, is not Gods Corn or Seeds perfect that they tread out; but the Apoſtle tells the Saints that was Gods Corn or Seed (which they had troden out) <hi>Ye are compleat in Chriſt who is the Head of all principalitys and power;</hi> In whom alſo ye are circumciſed, (Mark) <hi>are</hi> with the <hi>Circumciſion made without hands,</hi> in <hi>puting off the body of the ſins of the fleſh;</hi> by the <hi>Circumciſion of Chriſt, ſee<g ref="char:EOLhyphen"/>ing that ye have put off the Old Man with his deeds, and have put on the new man which is renewed in knowledge; after the Image of him that created him;</hi> and buried with Chriſt in baptiſm, wherein alſo ye are riſen with him through the faith of the operation of God; who raiſed Chriſt from the Dead; here it is clear the Apoſtles with the Power and Spirit of Chriſt had troden the Corn out of the Chaff, and this was before they went to the Grave; but while they were upon the Earth, and ſuch when they put off their earthly Tabernacle they ſlept in Jeſus and die in the Lord, and are bleſſed, <hi>&amp;c.</hi>
+            </p>
+            <p>And again you Teachers ſay, <hi>He that plows, ploweth in Hope;</hi> But how have you plowed in hope, when you ſay that people muſt have a body of death, and a body of the ſins of the fleſh to the Grave, and others ſay they muſt have a purgatory to cleanſe them from ſin when they are dead, then have not all you Oxen troden in vain, and Plowed in vain, that you have not gotten out Corn to Sow your fallow ground; and doth not all your ground lye fal<g ref="char:EOLhyphen"/>low with Weeds, Briers, and Thiſtles; for is not ſin and death compared to ſuch, and is not your fallow ground full of ſuch, that bears no fruit to God, but the Apoſtles who trode out the Corn and Plowed with the power and ſpirit of God; by which many were begotten to God, and lead by his Spirit, and were the Sons and Daughters of God,
+<pb n="11" facs="tcp:44867:7"/>and were born again not of corruptible ſeed, but of the in<g ref="char:EOLhyphen"/>corruptible, by the word of God, and a <hi>Choſen Generati<g ref="char:EOLhyphen"/>ration, a Royal Prieſt-hood and a holy Nation, a Peculiar peo<g ref="char:EOLhyphen"/>ple who were called out of Darkneſs into his marvellous Light; and as living ſtones are built up a Spiritual houſe-hold</hi> (Mark <hi>are</hi>) <hi>an holy Prieſt-hood to offer up Spiritual Sacrifices acceptable to God by Jeſus Chriſt;</hi> and this condition of the Saints was attained while they were upon the Earth.</p>
+            <p>And again you ſay, <hi>He that threſheth in hope ſhall be par<g ref="char:EOLhyphen"/>taker of his hope;</hi> Now here you may ſee as before mention<g ref="char:EOLhyphen"/>ed, that the Apoſtles that threſht in hope with the power of God and his Holy Ghoſt, they were partakers of their hope, but you that ſay people muſt have a body of death, and a body of the ſins of the fleſh to the Grave, and muſt have a Chaff purgatory to cleanſe them when they are dead, from ſin which is the <hi>Chaff;</hi> and that you have not the ſame power and Holy Ghoſt that the Apoſtles had, then with your unclean Ghoſt and Power you have threſht in vain, and got out no Corn, and ſo are not partakers of that purifying hope which <hi>John,</hi> ſpeaks of, that <hi>purifies even as he is pure.</hi>
+            </p>
+            <p>And again you Teachers ſay; <hi>If we have ſown unto you Spiritual things, is it a great thing if we ſhall reap your car<g ref="char:EOLhyphen"/>nal things;</hi> But how can you ſay, that you ſow Spiritual things to the people as the Apoſtles did, when you ſay that you have not the ſame power and Holy Ghoſt that the A<g ref="char:EOLhyphen"/>poſtles had; But you ſay that people muſt have a body of death, and ſins of the fleſh to the Grave, and there is no per<g ref="char:EOLhyphen"/>fection on this ſide the Grave, and others ſay they muſt have a Purgatory to cleanſe them from ſin when they are dead, ſo in this you ſow evil things from the evil one, not Spiritu<g ref="char:EOLhyphen"/>al things from the Spiritual one; and are the Miniſters of the letter, and ſow to the fleſh, and of the fleſh you may reap great Crops of corruptions, of your fallow Fields, and the Apoſtles were made able Miniſters of the Spirit, and ſowed to the Spirit (to wit) the Spirit of God in people, <hi>and of the Spirit they reapt Life eternal,</hi> and what can you ſow that have not the ſame power and Holy Ghoſt (that the Apo<g ref="char:EOLhyphen"/>ſtles
+<pb n="12" facs="tcp:44867:8"/>had, with your unclean Ghoſt and power) but ſin and death to the body of ſin and death; which you have from the devil the power of death, and Weeds, Thiſtles, and Brambles, upon your fallow ground; for to preach up a body of death and ſins of the fleſh, and Imperfection to the Grave, and others to preach up a purgatory to cleanſe them from ſin when they are dead, this is neither to preach the law of God nor his Goſpel.</p>
+            <p>And again, <hi>They which Miniſtred about holy things live of the things of the Temple, and they which wait at the Altar, are partakers of the Altar;</hi> So hath the Lord ordained that they which preach the Goſpel ſhould live of the Goſpel, but the Apoſtles tells you in theſe words, and ſaith, <hi>I have uſed none of theſe things, neither have I written theſe things that it ſhould be ſo done unto me,</hi> &amp;c. Verily that when I preach the Goſpel, I may make the Goſpel of Chriſt with<g ref="char:EOLhyphen"/>out charge, that I abuſe not my Power in the Goſpel, ſo here you may ſee an example. Have you uſed none of theſe things, nor written that theſe things ſhould be done unto you? have you made the Goſpel of Chriſt Jeſus with<g ref="char:EOLhyphen"/>out charge? let your practice and the people that hears you ſpeak, whether this Scripture be your rule as you ſay or no, the Apoſtle ſaith, <hi>Be you followers of me, even as I alſo am of Chriſt;</hi> Have you Teachers in Chriſtendom been the followers of the Apoſtle as he was of Chriſt, who ſaid, <hi>He ſought not his own profit, but the profit of many that they may be ſaved.</hi>
+            </p>
+            <p>But have not you Miniſters of Chriſtendom ſought your own profit, after Tythes and great Parſonages, more than the profit of people, that they might be ſaved.</p>
+            <p>But I return to the matter again, <hi>They that Miniſtred a<g ref="char:EOLhyphen"/>bout the holy things, lived of the things of the temple; and they that waited at the Altar are partakers with the Altar;</hi> Now theſe were outward things that the Jews lived on, but you will confeſs thoſe outward Altars or Temples and things were figures of the heavenly Temple, and Altar in the New Teſtament, ſo the Lord hath ordained that they that preach
+<pb n="13" facs="tcp:44867:8"/>the Goſpel ſhould live of the Goſpel, now the Apoſtle ſaid, that <hi>The Goſpel of Chriſt is the power of God unto Salvation, to every one that believeth;</hi> So they that live of the <hi>Goſpel</hi> lives of the power of <hi>God.</hi>
+            </p>
+            <p>And again the Apoſtle ſaith, <hi>The Goſpel was ſent down from Heaven by the Holy Ghoſt, and Chriſt ſaid unto his Diſ<g ref="char:EOLhyphen"/>ciples,</hi> when he gave them Commiſſion to preach, <hi>Freely you have received, freely give,</hi> Mat. 10. and the Apoſtle ſaid, <hi>I have preached to you the Goſpel of God freely.</hi>
+            </p>
+            <p>And again the Apoſtle ſaid, <hi>They had received the Spirit which is of God, that we may know the things that are freely given to us of God, and God that ſpared not his own Son but delivered him up for us all, how ſhall he not with him alſo freely give us all things;</hi> So here you may ſee <hi>God</hi> and Chriſt did give freely to their Apoſtles, and therefore they were freely to give; and whatſoever City or Houſe they entred, and they that received them they were to eat and drink ſuch things as they ſet before them: <hi>For the Labourer is worthy of his hire: And the work-man is worthy of his meat. Go not from houſe to houſe,</hi> ſo hear you may ſee what the Labourers hire was, to eat and drink ſuch things as were ſet before them, they were not to <hi>Go from houſe to houſe,</hi> then they were not like to go from Pariſh to Pariſh, for a Bigger benefit, and they that would not receive them, nor hear them, <hi>They were to ſhake the duſt off their feet againſt them,</hi> and go their wayes, ſo then they were not to go to the Magi<g ref="char:EOLhyphen"/>ſtrates and complain againſt them, and get a warrant to have them before the Magiſtrates, for them to ſend them to priſon, for that practice is not the <hi>Goſpel</hi> of Chriſt.</p>
+            <closer>
+               <signed>G. Fox.</signed>
+               <dateline>
+                  <hi>From South-gate</hi> 
+                  <date>1682.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:44867:9"/>
+            <head>Books Sold by <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lombard-ſtreet,</hi> Book ſeller.</head>
+            <list>
+               <item>
+                  <hi>WIlliam Penn</hi>'s No Croſs, no Crown.</item>
+               <item>
+                  <hi>Barclay</hi>'s Apology in Engliſh.</item>
+               <item>— in Latin.</item>
+               <item>Caſe of Proteſtant Diſſenters.</item>
+               <item>
+                  <hi>William Shewen</hi>'s true Chriſtian Faith.</item>
+               <item>
+                  <hi>Stephen Criſp</hi>'s Epiſtle of Caution.</item>
+               <item>
+                  <hi>Mather</hi>'s Manual for Young Men.</item>
+               <item>Cabbaliſtical Dialogue.</item>
+               <item>Midnight Thoughts.</item>
+               <item>Dying Words of an <hi>Indian</hi> King in <hi>America.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Ellwood</hi>'s Antidote againſt <hi>Will. Rogers.</hi>
+               </item>
+               <item>The Cauſe why <hi>Adam</hi> and <hi>Eve</hi> were driven out of Paradice, and the Jews out of their own Land.</item>
+            </list>
+            <pb facs="tcp:44867:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
